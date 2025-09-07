@@ -13,10 +13,8 @@
 ---
 
 ## 👨‍💻 About me
-- 🎓 First-year Computer Science student
-- 🌱 Currently learning **C**, **C++** and the basics of **Web Development**
+- 🎓 Computer Science student
 - 💡 Interested in **AI** and **Cybersecurity**
-- 📚 Exploring new technologies and building small projects to practice
 
 ---
 
@@ -24,7 +22,14 @@
 <p>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=white" />
 </p>
 
 ---
