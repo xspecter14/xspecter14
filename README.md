@@ -15,7 +15,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Wix](https://upload.wikimedia.org/wikipedia/commons/6/6a/Wix_logo.svg)
+<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" height="40" alt="C logo" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" height="40" alt="C++ logo" />
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="40" alt="C# logo" />
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="40" alt="Arduino logo" />
+<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" height="40" alt="LaTeX logo" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="40" alt="Git logo" />
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="40" alt="WordPress logo" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40" alt="HTML5 logo" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40" alt="CSS3 logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Wix_logo.svg" height="40" alt="Wix logo" />
+
 
 
 
