@@ -23,15 +23,6 @@
 
 ---
 
-## 🚀 Projects
-*(for now, small projects to practice — more coming soon!)*
-
-- 📂 [Hello Python](https://github.com/tuo-username/hello-python) – first steps with Python
-- 📂 [Simple Calculator](https://github.com/tuo-username/calculator) – basic calculator in Java
-- 📂 [Personal Website](https://github.com/tuo-username/portfolio) – simple portfolio with HTML & CSS
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical&count_private=true" />
