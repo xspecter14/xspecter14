@@ -1,3 +1,9 @@
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?text=Hello+World!👨‍💻&animation=fadeIn&type=waving&color=gradient&height=200)
+
+---
+
+<h2>👋 About Me</h2>
 <p align="center">
   <img width="120px" src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="profile-pic" />
   </br>
