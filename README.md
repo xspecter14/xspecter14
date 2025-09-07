@@ -9,7 +9,6 @@
 
 ## 👨‍💻 About me
 - 🎓 Computer Science Student
-- 💡 Interested in **AI** and **Cybersecurity**
 
 ---
 
