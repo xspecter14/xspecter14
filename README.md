@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" height="40" alt="C logo" />
 </p>
 
 ---
