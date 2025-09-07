@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="40" alt="LaTeX logo" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Wix.com_Logo.svg" height="40" alt="Wix logo" />
