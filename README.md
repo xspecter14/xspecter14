@@ -13,14 +13,13 @@
 
 ---
 
- ## 🛠️ Languages and Tools
-<p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=white" />
 </p>
